@@ -23,7 +23,7 @@ Exportamos cada archivo .csv limpio a MySQL Workbench dentro de una nueva base d
 
 Para acceder al esquema pulsa [aquí](http://localhost:8888/view/Ironhack/Project_SQL/img/schemaSQL.png) 
 
-Para acceder al código del esquema pulsa [aquí](http://localhost:8888/edit/Ironhack/Project_SQL/src/1.2.%20SQL_Schema.sql)
+Para acceder al código del esquema pulsa [aquí](http://localhost:8888/edit/Ironhack/Project_SQL/SQL/1.2.%20SQL_Schema.sql)
 
 
 ### 3. Queries:
@@ -40,7 +40,7 @@ Para acceder al código del esquema pulsa [aquí](http://localhost:8888/edit/Iro
 
 - ¿Qué películas de Joe Swank incluyen comentarios?
 
-Si quieres ver con detalle las queries lanzadas, pulsa [aquí](http://localhost:8888/edit/Ironhack/Project_SQL/src/1.3.%20Bonus_QUERY.sql#)
+Si quieres ver con detalle las queries lanzadas, pulsa [aquí](http://localhost:8888/edit/Ironhack/Project_SQL/SQL/1.3.%20Bonus_QUERY.sql)
 
 Si quieres visualizar el resultado de cada query, pulsa [aquí](http://localhost:8888/tree/Ironhack/Project_SQL/img)
 
