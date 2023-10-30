@@ -45,6 +45,21 @@ Si quieres ver con detalle las queries lanzadas, pulsa [aquí](http://localhost:
 Si quieres visualizar el resultado de cada query, pulsa [aquí](http://localhost:8888/tree/Ironhack/Project_SQL/img)
 
 
+## SUGGESTIONS
+
+Para mejorar la base de datos, se lanzan las siguientes propuestas:
+
+- Añadir películas en otros idiomas, ya que en los registros todas las películas están en inglés.
+
+- Añadir una tabla que indique si una película está disponible en el videoclub o está actualmente en alquiler.
+
+- Vincular al personal dependiente con cada uno de los videoclubs, si en el futuro hubiese más de uno.
+
+- Tener un registro de datos personales de cada cliente (teléfono o email) para poder establecer contactos o difusión de novedades.
+
+- Registrar si un cliente ha superado el período máximo de alquiler para contactar con el mismo.
+
+
 ## Resources:
 
 - [Pandas](pandas.pydata.org)
