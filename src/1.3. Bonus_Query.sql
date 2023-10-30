@@ -1,6 +1,6 @@
 USE videoclub;
 
--- Q1. ¿Cuáles son las 5 películas más largas?
+-- Q1. ¿Cuáles son las 5 películas qe tienen mayor duración?
 -- Para ello utilizamos un GROUP_CONCAT junto a DISTINCT para agrupar los títulos de la misma duración, ya que si no, obteníamos títulos repetidos.
 
 SELECT f.length, GROUP_CONCAT(DISTINCT f.title) AS titles
